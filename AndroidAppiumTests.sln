@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidAppiumTests", "AndroidAppiumTests.csproj", "{895E8FC9-0F52-4420-A920-BB1872924614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895E8FC9-0F52-4420-A920-BB1872924614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895E8FC9-0F52-4420-A920-BB1872924614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895E8FC9-0F52-4420-A920-BB1872924614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895E8FC9-0F52-4420-A920-BB1872924614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB56D5E-356D-4942-9486-26282A937C27}
+	EndGlobalSection
+EndGlobal
